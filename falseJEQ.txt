@@ -1,0 +1,7 @@
+movi r1 1 
+movi r2 2
+movi r3 3
+movi r4 4
+jeq r1 r2 -2
+movi r5 5
+movi r6 6

@@ -1,0 +1,10 @@
+movi r1 1
+movi r2 1
+movi r3 3
+movi r4 4
+add r2 r1 r2
+movi r6 67
+movi r8 8
+jeq r2 r3 2
+movi r5 5
+jmp 12

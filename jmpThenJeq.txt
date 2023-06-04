@@ -1,0 +1,16 @@
+movi r1 12 
+movi r2 12
+movi r3 6
+movi r4 6
+jmp 11
+movi r3 120
+movi r4 205
+movi r5 237
+add r1 r3 r1
+movi r3 23
+movi r20 5
+jeq r3 r4 2
+movi r3 12
+movi r4 12 
+add r3 r4 r3
+movi r6 99

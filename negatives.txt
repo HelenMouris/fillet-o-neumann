@@ -1,0 +1,7 @@
+movi r3 4
+movi r1 1
+movi r2 -2
+movi r4 -4
+movm r1 r3 -2
+movr r4 r3 -2
+xori r5 r3 -2

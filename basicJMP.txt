@@ -1,0 +1,14 @@
+movi r1 1 
+movi r2 2 
+movi r3 3 
+movi r4 4
+jmp 13
+movi r5 5
+movi r6 6 
+movi r7 7 
+movi r8 8 
+movi r9 9
+movi r10 10
+movi r11 11
+movi r12 12
+add r1 r1 r2
